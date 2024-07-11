@@ -1,4 +1,4 @@
-# Taxa_mortalidade_covid19-RJ-SP-
+# Projeto em python que analiza a taxa_mortalidade_covid19-RJ-SP-
 
 Projeto em python para analize de dados de uma base de dados da taixa de mortalidade do covid19 nos estados do Rio de Janeiro e São Paulo.
 
